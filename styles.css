@@ -65,7 +65,7 @@ p {
 }
 
 .image {
-  background-image: url(/images/image-header-desktop.jpg);
+  background-image: url(https://michael080.github.io/Responsive-Flexbox-Card-Component/images/image-header-desktop.jpg);
   opacity: 35%;
   background-repeat: no-repeat;
   background-size: cover;
